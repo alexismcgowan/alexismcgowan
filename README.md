@@ -10,3 +10,6 @@ This is an infographic of the distribution of first year students among colleges
 ### Timeline of Rio Olympics
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TsvX_WEt2wAQCuyH1TjApWIEQLYbmW5KsFkoxzqt9_o&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+This is an infographic of the most popular sushi places in Manhattan 
+![Top Sushi Spots in Manhattan Inforgraphic](alexismcgowan.github.io/Top 5 Sushi Spots.png)
