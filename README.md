@@ -16,5 +16,4 @@ This is an infographic of the most popular sushi places in Manhattan
 ### Timelines
 
 This is a timeline of the summer olympic games in Rio de Janeiro, Brazil in 2016
-
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1TsvX_WEt2wAQCuyH1TjApWIEQLYbmW5KsFkoxzqt9_o&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
