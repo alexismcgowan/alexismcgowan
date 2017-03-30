@@ -3,7 +3,7 @@ I'm Alexis (Lexie) McGowan. I am sophomore at Lehigh University in Bethlehem, PA
 
 [LinkedIn](https://au.linkedin.com/in/alexis-lexie-mcgowan-ba4194133)
 
-###Infographics
+### Infographics
 
 This is an infographic of the distribution of first year students among colleges at Lehigh University
 
