@@ -5,11 +5,11 @@ I'm Alexis (Lexie) McGowan. I am sophomore at Lehigh University in Bethlehem, PA
 
 ### Infographics
 
-This is an infographic of the distribution of first year students among colleges at Lehigh University
+This is an infographic of the distribution of first year students among colleges at Lehigh University.
 
 ![Inforgraphic of Colleges](https://github.com/alexismcgowan/alexismcgowan.github.io/blob/master/41.0%2529.2%2529.2%25.png?raw=true)
 
-This is an infographic of the most popular sushi places in Manhattan 
+This is an infographic of the most popular sushi places in Manhattan according to Business Insider.
 
 ![Top Sushi Spots in Manhattan Inforgraphic](alexismcgowan.github.io/Top 5 Sushi Spots.png)
 
