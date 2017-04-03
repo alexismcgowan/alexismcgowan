@@ -22,3 +22,5 @@ This is a timeline of the summer olympic games in Rio de Janeiro, Brazil in 2016
 
 This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Hamilton."
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1SPDc25vrqUz0LHSWd7CXjI6BRCO-dR70A-RcYTBEGPs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+### Chats 
