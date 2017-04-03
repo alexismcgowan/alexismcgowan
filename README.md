@@ -24,3 +24,4 @@ This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Ha
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1SPDc25vrqUz0LHSWd7CXjI6BRCO-dR70A-RcYTBEGPs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ### Chats 
+![Chart of 2016 Enrollment](https://github.com/alexismcgowan/alexismcgowan.github.io/blob/master/2016%20Percent%20of%20Undergraduate%20Enrollment.png) 
