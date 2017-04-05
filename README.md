@@ -26,3 +26,5 @@ This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Ha
 ### Charts 
 
 ![Chart of 2016 Enrollment at Lehigh](alexismcgowan.github.io/2016 Percent of Undergraduate Enrollment.png)
+
+![Chart of the Percentage of Students]
