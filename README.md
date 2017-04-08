@@ -28,3 +28,5 @@ This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Ha
 ![Chart of 2016 Enrollment at Lehigh](alexismcgowan.github.io/2016 Percent of Undergraduate Enrollment.png)
 
 ![Chart of the Percentage of Students](alexismcgowan.github.io/Percentage of students in each college at lehigh 2.png)
+
+![Chart of the Number of Chipotle Locations Worldwide](alexismcgowan.github.io/Chipotle Locations.png)
