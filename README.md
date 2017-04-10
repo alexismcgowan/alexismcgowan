@@ -33,6 +33,6 @@ This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Ha
 
 ### Maps
 
-This is a map of the various butterflies in Puerto Rico
+This is a map of the various butterflies in Costa Rica.
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1KayUF6VxIz1gjGLyuA3rrU_iYQfTGyNz-zkHL9vD&amp;viz=MAP&amp;h=false&amp;lat=10.8284969703655&amp;lng=-85.15139807128907&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
