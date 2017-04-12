@@ -36,3 +36,7 @@ This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Ha
 This is a map of the various butterflies in Costa Rica.
 
 <iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1KayUF6VxIz1gjGLyuA3rrU_iYQfTGyNz-zkHL9vD&amp;viz=MAP&amp;h=false&amp;lat=10.939755376736745&amp;lng=-85.33816564941405&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
+
+This is a map of various art locations around Bethlehem, PA
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1it3fVuUHMBjflx33AB61UmuI-aImdK1caMCE3v8m&amp;viz=MAP&amp;h=false&amp;lat=40.613621587640665&amp;lng=-75.36450564276122&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
