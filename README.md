@@ -6,7 +6,7 @@ I'm Alexis (Lexie) McGowan. I am sophomore at Lehigh University in Bethlehem, PA
 [Brown and White Profile](http://thebrownandwhite.com/author/akm219/) 
 
 ### Comic
-![Lex in the City comic]
+![Lex in the City comic](alexismcgowan.github.io/Screen Shot 2017-04-26 at 3.40.18 PM.png) 
 
 ### Infographics
 
