@@ -5,6 +5,9 @@ I'm Alexis (Lexie) McGowan. I am sophomore at Lehigh University in Bethlehem, PA
 
 [Brown and White Profile](http://thebrownandwhite.com/author/akm219/) 
 
+### Comic
+![Lex in the City comic]
+
 ### Infographics
 
 This is an infographic of the most popular sushi places in Manhattan according to Business Insider.
