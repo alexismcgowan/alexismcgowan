@@ -21,6 +21,8 @@ This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Ha
 
 ### Chart 
 
+This is a bar graph showing the number of Chipotle locations worldwide as of 2016.
+
 ![Chart of the Number of Chipotle Locations Worldwide](alexismcgowan.github.io/Screen Shot 2017-05-01 at 3.10.51 PM.png)
 
 ### Map
