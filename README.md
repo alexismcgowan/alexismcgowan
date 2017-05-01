@@ -8,11 +8,11 @@ I'm Alexis (Lexie) McGowan. I am sophomore at Lehigh University in Bethlehem, PA
 ### Comic
 ![Lex in the City comic](alexismcgowan.github.io/Screen Shot 2017-04-26 at 3.40.18 PM.png) 
 
-### Infographics (alexismcgowan.github.io/Top 5 Sushi Spots.png) 
+### Infographics
 
 This is an infographic of the most popular sushi places in Manhattan according to Business Insider.
 
-![Top Sushi Spots in Manhattan Inforgraphic]
+![Top Sushi Spots in Manhattan Inforgraphic](alexismcgowan.github.io/Top 5 Sushi Spots.png) 
 
 ### Timelines
 
