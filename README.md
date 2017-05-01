@@ -12,7 +12,7 @@ I'm Alexis (Lexie) McGowan. I am sophomore at Lehigh University in Bethlehem, PA
 
 This is an infographic of the most popular sushi places in Manhattan according to Business Insider.
 
-![Top Sushi Spots in Manhattan Inforgraphic](alexismcgowan.github.io/Top 5 Sushi Spots.png)
+![Top Sushi Spots in Manhattan Inforgraphic]
 
 ### Timelines
 
