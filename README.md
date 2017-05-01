@@ -8,22 +8,22 @@ I'm Alexis (Lexie) McGowan. I am sophomore at Lehigh University in Bethlehem, PA
 ### Comic
 ![Lex in the City comic](alexismcgowan.github.io/Screen Shot 2017-04-26 at 3.40.18 PM.png) 
 
-### Infographics
+### Infographic
 
 This is an infographic of the most popular sushi places in Manhattan according to Business Insider.
 
 ![Top Sushi Spots in Manhattan Inforgraphic](alexismcgowan.github.io/Top 5 Sushi Spots.png) 
 
-### Timelines
+### Timeline
 
 This is a timeline of the life of Lin-Manuel Miranda, famous for his musical "Hamilton."
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1SPDc25vrqUz0LHSWd7CXjI6BRCO-dR70A-RcYTBEGPs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-### Charts 
+### Chart 
 
-![Chart of the Number of Chipotle Locations Worldwide](alexismcgowan.github.io/Chipotle Locations.png)
+![Chart of the Number of Chipotle Locations Worldwide](alexismcgowan.github.io/Screen Shot 2017-05-01 at 3.10.51 PM.png)
 
-### Maps
+### Map
 
 This is a map of the top 10 lobster places in Maine based on an article from Travel and Leisure titled "The 10 Best Lobster Shacks in Maine."
 <iframe width="800" height="500" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1gbAXcbWRhmgJExHTN-8bPORGAHtiPoeyOhSE00Zi&amp;viz=MAP&amp;h=false&amp;lat=44.00231108428354&amp;lng=-69.40420357187497&amp;t=1&amp;z=8&amp;l=col0&amp;y=2&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"></iframe>
